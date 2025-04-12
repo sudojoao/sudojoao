@@ -14,8 +14,6 @@
 <img src="https://github-readme-streak-stats-one-theta.vercel.app?user=sudojoao&theme=yellowdark&hide_border=true&background=45%2CB60000%2C00012F" alt="My stats">
 </p>
 
-![](https://komarev.com/ghpvc/?username=sudojoao)
-
 
 ```
                           .s$$$Ss.
