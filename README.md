@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-one-theta.vercel.app?user=sudojoao&theme=yellowdark&hide_border=true&background=45%2CB60000%2C00012F" alt="My stats">
+<img src="https://github-readme-streak-stats-one-theta.vercel.app?user=sudojoao&theme=nord" alt="My stats">
 </p>
 
 
